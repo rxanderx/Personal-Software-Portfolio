@@ -26,4 +26,7 @@ I used VScode with Git integration to create, store, and publish this software.
 
 I used Python 3 to create this program. I implemented the 'random' library.
 
-
+{Make a list of things that you need to fix, improve, and add in the future.}
+* Item 1
+* Item 2
+* Item 3
